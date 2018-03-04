@@ -1,2 +1,2 @@
-# Python blockchain example
-Dette er en readme fil.
+# Python blockchain
+Basic blockchain created in python.
